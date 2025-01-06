@@ -15,4 +15,6 @@ The Lean code in this repository was compatible with the versions of Lean and Ma
 
 Thanks to Tomas Skrivan, our guest speaker for Lecture 11 (the code for his repo is [here](https://github.com/lecopivo/SciLeanDemo))! Also, thanks to ATOMS Lab [members](https://atomslab.github.io/members/) Ejike (David) Ugwuanyi, Colin Jones, Alan Vithayathil, Oscar Matemb, and Shashane Anderson for contributing to course content, developing example problems, and editing lecture recordings.
 
+Also, big thanks to Heather Macbeth for writing [Mechanics of Proof](https://hrmacbeth.github.io/math2001/) and to David Thrane Christiansen for writing [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/).
+
  This work was made possible with funding from the National Science Foundation, NSF CAREER Award [2236769](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2236769)
