@@ -11,6 +11,8 @@ Topics include:
 
 Lecture recordings are now on [YouTube](https://www.youtube.com/playlist?list=PLX21uJ4UfpF43NExUcPcAEgnzV58x_26l)!
 
-Thanks to Tomas Skrivan, our guest speaker for Lecture 11! Also, thanks to ATOMS Lab members Ejike (David) Ugwuanyi, Colin Jones, Alan Vithayathil, Oscar Matemb, and Shashane Anderson for contributing to course content, developing example problems, and 
+The Lean code in this repository was compatible with the versions of Lean and Mathlib that were current in August 2024. To try the code with the latest versions of Lean and Mathlib, try the [Lean Language Server](https://live.lean-lang.org).
+
+Thanks to Tomas Skrivan, our guest speaker for Lecture 11! Also, thanks to ATOMS Lab [members](https://atomslab.github.io/members/) Ejike (David) Ugwuanyi, Colin Jones, Alan Vithayathil, Oscar Matemb, and Shashane Anderson for contributing to course content, developing example problems, and editing lecture recordings.
 
  This work was made possible with funding from the National Science Foundation, NSF CAREER Award [2236769](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2236769)
